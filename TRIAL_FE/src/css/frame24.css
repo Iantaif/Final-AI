@@ -1,0 +1,123 @@
+.root {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .image1 {
+    top: 120px;
+   
+    width: 143px;
+    height: 171px;
+    background-image:/* webpackIgnore: true */ url('../images/download1.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: blur(5px);
+  }
+  .casualLife3dBoySittingAtTheDes {
+
+
+    background-image:/* webpackIgnore: true */ url('../images/download1.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+  .image2 {
+    top: 50px;
+    right: -100px;
+   
+    width: 536px;
+    height: 571px;
+    background-image:/* webpackIgnore: true */ url('../images/download1.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: blur(6px);
+  }
+  @media screen and (max-width: 1264px) {
+    .image1 {
+      top: 120px;
+   
+      width: 143px;
+      height: 171px;
+      background-image:/* webpackIgnore: true */ url('../images/download1.png');
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      filter: blur(5px);
+     
+    }
+  
+    .image2 {
+      top: 50px;
+      right: -220px;
+     
+      width: 536px;
+      height: 571px;
+      background-image:/* webpackIgnore: true */ url('../images/download1.png');
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      filter: blur(6px);
+      
+    }
+  }
+  @media screen and (max-width: 1000px) {
+    .image1 {
+      top: 120px;
+   
+      width: 120px;
+      height: 140px;
+      background-image:/* webpackIgnore: true */ url('../images/download1.png');
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      filter: blur(5px);
+     
+    }
+  
+    .image2 {
+      top: 50px;
+      right: -300px;
+     
+      width: 536px;
+      height: 500px;
+      background-image:/* webpackIgnore: true */ url('../images/download1.png');
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      filter: blur(6px);
+      
+    }
+     @media screen and (max-width: 1000px) {
+    .image1 {
+      top: 120px;
+   
+      width: 120px;
+      height: 140px;
+      background-image:/* webpackIgnore: true */ url('../images/download1.png');
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      filter: blur(5px);
+     
+    }
+  
+    .image2 {
+      top: 50px;
+      right: -300px;
+     
+      width: 536px;
+      height: 500px;
+      background-image:/* webpackIgnore: true */ url('../images/download1.png');
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      filter: blur(6px);
+      
+    }
+  }
+}
+  

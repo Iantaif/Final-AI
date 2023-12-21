@@ -1,0 +1,78 @@
+
+.root {
+    align-items: center;
+    gap: 30px;
+    padding: 40px;
+    border-radius: 14px;
+    box-shadow: 0px 22.8981px 45.7963px -11.4491px #34292714;
+  }
+  .image54 {
+    width: 200px;
+    height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .frame20 {
+    height: min-content;
+    flex: 1;
+    flex-direction: column;
+  }
+  .frame18 {
+    height: min-content;
+    align-self: stretch;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 14px;
+  }
+  .frame23 {
+    width: 564px;
+    height: min-content;
+    align-items: flex-start;
+    gap: 14px;
+  }
+  .leThiQuynhNhu {
+    color: #000;
+    font-size: 32px;
+    line-height: 100%;
+    font-family: Dela Gothic One, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    letter-spacing: -0.04em;
+    width: min-content;
+    height: min-content;
+    white-space: nowrap;
+    flex-direction: column;
+  }
+  .frame40 {
+    width: min-content;
+    height: min-content;
+    padding: 4px 8px;
+    border-radius: 6px;
+    background-color: #000;
+  }
+  .github {
+    color: #fff;
+    font-size: 12px;
+    line-height: 140%;
+    font-weight: 600;
+    font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    letter-spacing: -0.04em;
+    width: min-content;
+    height: min-content;
+    white-space: nowrap;
+    flex-direction: column;
+  }
+  .madeDesignApiQueriesStatistics {
+    color: #757575;
+    font-size: 16px;
+    line-height: 140%;
+    font-weight: 600;
+    font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+      'Liberation Sans', sans-serif;
+    letter-spacing: -0.04em;
+    height: min-content;
+    align-self: stretch;
+    flex-direction: column;
+  }
+  
